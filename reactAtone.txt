@@ -1,0 +1,14 @@
+npm create vite@latest
+
+npm install
+
+npm run dev
+
+https://tailwindcss.com/
+
+npm install -D tailwindcss post
+
+
+https://headlessui.dev/
+
+import { Popover } from '@headlessui/react'
